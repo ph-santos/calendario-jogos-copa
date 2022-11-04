@@ -41,7 +41,7 @@ document.querySelector('#cards').innerHTML =
     creatCard('02/12', 'Sexta', 
         creatGame('korea', '12:00', 'portugal') +
         creatGame('camaroes', '16:00', 'brasil') +
-        creatGame('ghana', '12:00', 'Uruguai')
+        creatGame('ghana', '12:00', 'uruguai')
     ) 
     
     function changeColors() {
